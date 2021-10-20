@@ -1,0 +1,56 @@
+html {
+  background-color: #654321;
+}
+
+td {
+  border: 6px solid #d7d3ba;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  background-color: red;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Stick No Bills", sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+h2 {
+  font-style: oblique;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.button {
+  height: 60px;
+  width: 120px;
+  background-color: #61de2a;
+  border: 4px solid #b78727;
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Bayon", sans-serif;
+}
+
+h3,
+h4 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+h5 {
+  text-align: center;
+  font-family: "Stick No Bills", sans-serif;
+  color: #f8f8ff;
+  font-size: 30px;
+}
